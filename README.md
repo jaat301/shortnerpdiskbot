@@ -1,6 +1,6 @@
 # shortnerpdisk-bot
 
-Make short link by using [shortnerpdisk](https://shortnerpdisk.tech) API key
+Make short link by using [shortnerpdisk](https://shortnerpdisk.com) API key
 ### Join Our Channel on telegram 
 [@jaat301](t.me/jaat301) for bot
 ### Installation
