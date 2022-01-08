@@ -2,12 +2,12 @@
 
 Make short link by using [shortnerpdisk](https://shortnerpdisk.tech) API key
 ### Join Our Channel on telegram 
-[@akmnph](t.me/hornyworld22) for bot
+[@jaat301](t.me/jaat301) for bot
 ### Installation
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Trydisk/newshortfor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aditaya193/shortnerpdiskbot)
 
 ##### Required Variables
 
